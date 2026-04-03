@@ -1,0 +1,11 @@
+{
+  "page": 2,
+  "total_pages": 3,
+  "data": [
+    { "id": 6, "user_id": 1, "amount": 100 },
+    { "id": 7, "user_id": 2, "amount": 200 },
+    { "id": 8, "user_id": 1, "amount": 150 },
+    { "id": 9, "user_id": 3, "amount": 300 },
+    { "id": 10, "user_id": 2, "amount": 250 }
+  ]
+}
